@@ -119,6 +119,10 @@ p{
 	background: #6A2B4F;
 }
 
+.hide{
+	display: none;
+}
+
 .line{
 	width: 100%;
 	height: 90px;
