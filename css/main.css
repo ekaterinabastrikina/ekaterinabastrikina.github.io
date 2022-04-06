@@ -12,9 +12,6 @@ li{
 img{
 	width:100%;
 	display: block;
-
-
-
 }
 
 p{
@@ -148,6 +145,8 @@ p{
 
 .text_block{
 	width: 500px;
+	margin-right: 25px;
+	margin-left: 25px;
 }
 
 ..picture_wrapper{
@@ -337,7 +336,7 @@ p{
 	height: 400px;
 }
  
-
+/*
 
 @media screen and (max-width: 1400px){
 	.container{
@@ -897,3 +896,4 @@ p{
 
 
 
+*/
