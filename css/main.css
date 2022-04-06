@@ -210,7 +210,6 @@ p{
 	display: flex;
 	justify-content: space-between;
 	flex-wrap: wrap;
-	
 }
 
 .card{
@@ -219,9 +218,7 @@ p{
 	background: rgba(196, 196, 196, 0.14);
 	margin-top: 40px;
 	margin-right: 20px;
-
 }
-
 
 .desc{
 	font-family: 'Roboto', sans-serif;
@@ -246,7 +243,7 @@ p{
 }
 
 .slide4{
- height: 817px;
+ max-height: 817px;
 }
 
 
